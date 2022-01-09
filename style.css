@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(240, 21, 240);
+    text-align: center;
+}
+.container{
+    margin-top: 20%;
+}
+#submit{
+    margin-top: 30px
+}
